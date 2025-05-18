@@ -36,7 +36,7 @@ export const FOOTER_COPYRIGHT = '© 2025 Ur mama.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
 export const NAME = 'Ur mama'
-export const JOB_TITLE = 'NASA Frontend Intern'
+export const JOB_TITLE = 'Am being lazy to write this'
 export const DESCRIPTION =
   'I am a passionate designer and developer with a focus on creating beautiful and functional user interfaces. I have experience in design engineering, front-end development, and product design. I love to explore the intersection of design and technology, and I am always looking for new challenges to tackle.'
 
