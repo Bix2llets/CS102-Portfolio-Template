@@ -94,6 +94,18 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
   },
+  {
+    title: 'Proof that your mom is fat',
+    description: 'A comprehensive explaination of the reason why everybody agree that your mom is fat',
+    link: '/blog/my-first-blog',
+    uid: 'blog-2',
+  },
+  {
+    title: 'Hot mom in your area',
+    description: 'A comprehensive list of single hot mom around you',
+    link: '/blog/horn-pub',
+    uid: 'blog-3',
+  },
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
